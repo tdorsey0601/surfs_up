@@ -6,8 +6,8 @@ Results
 	June
 	This data shows the temperature trends in June, see DataFrame and graph below
 	![image](https://user-images.githubusercontent.com/111245707/198375715-95598ace-f480-45c1-8b76-f1fc5612980a.png)
-  
-![image](https://user-images.githubusercontent.com/111245707/198375872-8e3d72bd-ec18-4f8d-8920-ae8f6c23b87c.png)
+  ![image](https://user-images.githubusercontent.com/111245707/198376286-d2dca853-3061-4ddb-bbc5-f8a43ba4cd40.png)
+
 
 
 	
